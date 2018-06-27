@@ -50,7 +50,7 @@ Also modify the .htaccess rewrite base inside the public folder
 
 ## Authors
 
-* **Amshel Hack3r** - *Initial work* - [PurpleBooth](https://github.com/Amshelhack3r)
+* **Amshel Hack3r** - *Initial work* - [Amshelhack3r](https://github.com/Amshelhack3r)
 
 See also the list of [contributors](https://github.com/mvc_template/contributors) who participated in this project.
 
